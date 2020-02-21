@@ -22,7 +22,7 @@ class _HomePageState extends State<HomePage> {
 
     if (_search == null || _search.isEmpty)
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/trending?api_key=$_key&limit=19&rating=G&&offset=$_offset");
+          "https://api.giphy.com/v1/gifs/trending?api_key=$_key&limit=20&rating=G&&offset=$_offset");
     else
       response = await http.get(
           "https://api.giphy.com/v1/gifs/search?api_key=$_key&q=$_search&limit=19&offset=$_offset&rating=G&lang=en");

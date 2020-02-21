@@ -1,16 +1,23 @@
-# giphydev
+# GiphyDev
 
-A new Flutter project.
+<div>
+  <img src="https://i.ibb.co/C1zW3XK/Screenshot-20200221-203301.jpg" alt="home" height="425">
+  <img src="https://i.ibb.co/N1qkSRW/Screenshot-20200221-204324.jpg" alt="gif" height="425">
+</div>
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+App to search or view popular gifs and share with your friends.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Use API of Giphy Developers
+- Progress indicator
+- Multipages (Routing)
+- Share GIF's
+- Search GIF
+- Smooth images
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Apps
+
+Download apk in "releases"
