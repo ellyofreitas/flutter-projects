@@ -4,6 +4,10 @@
   <img src="https://i.ibb.co/rF6H3zH/todo.png" alt="demo-mobile" height="425">
 </div>
 
+## Description
+
+A sample to do list to be used daily, to write down your tasks, so you don't forget them.
+
 ## Features
 
 - Check/Uncheck to do
